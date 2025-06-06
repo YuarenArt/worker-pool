@@ -1,4 +1,4 @@
-module worker-pool
+module github.com/YuarenArt/worker-pool
 
 go 1.24.0
 
